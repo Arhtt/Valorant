@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-    color:rgb(48, 147, 240); text-align: center;
+    color:#45aff3; text-align: center;
 }
 
 p {
     color: white;
 }
 
-#vscode {
-    
+img {
+    width: 5%;
 }
